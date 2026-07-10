@@ -3,23 +3,27 @@
 I am a **Full Stack Engineer & SRE** based in Tokyo with a passion for clean architecture and optimizing workflows & performance.
 
 - **By morning,** I am my own personal barista, pulling the perfect manual espresso shot.
-- **By day,** I modern and re-architect fossilized, ancient artifacts written in COBOL, .NET, Django, or even J2EE to modern cloud-native frameworks like Java SpringBoot or Python FastAPI. Transforming legacy systems into high-performance, maintainable assets
-- **By night,** I hunt down latency bottlenecks, delete digits from company cloud bills, supercharge CI pipelines for maximum developer efficiency, and play cozy farming games like Stardew Valley, Harvest Moon, and Sakuna: Of Rice and Ruin.
+- **By day,** I modernize and re-architect legacy ancient artifacts written in COBOL/.NET/J2EE/Django to modern cloud-native frameworks like Java SpringBoot or Python FastAPI.
+- **By night,** I hunt down latency bottlenecks, delete digits from company cloud bills, and optimize CI pipelines for developer efficiency.
+
+On my free time, I play cozy farming games like Stardew Valley, Harvest Moon, and Sakuna: Of Rice and Ruin.
 
 ---
 
 ## What I Actually Do (TL;DR)
 
-- **Code Modernization:** Throughout my career I've been adept at looking under the hood of legacy codebases (COBOL/.NET/J2EE) to successfully rearchitect and port them into maintainable modern ecosystem and frameworks.
+- **Code Modernization:** 
+  - Throughout my career I've been adept at rearchitecting fossilized codebases to modern ecosystems and frameworks.
 - **CI/CD Pipeline Optimization:** 
   - Enforced Sonarqube Quality Gate in CI pipeline throughout the whole organization (600+ repos).
   - Slashed pipeline build times from **1+ hours down to ~15 minutes** by restructuring workflows to utilize multi-stage, multi-job parallelization, and advanced layer caching.
-  - Revamped unstable Terraform and Gradle execution steps, driving the team's pipeline **Pass Rate Trend** from a rocky 30% up to a more stable 80%.
+  - Revamped unstable Terraform and Gradle execution steps, driving the team's pipeline **Pass Rate Trend** from 30% to 80%.
 - **High-Scale Performance Tuning:** 
   - Slashed a flagship product's daily asset traffic from **35M to 500k requests**, dropping load times from 25 seconds to milliseconds.
   - Resolved a regional network bottleneck causing **2-minute client latencies** down to milliseconds using strategic CDN routing.
   - Eliminated critical N+1 query patterns in our highest-traffic Java auth service—**dropping daily calls from 500k to less than 50k**.
-- **SRE Cost Killer:** At Medidata, I saved an estimated $105,000+ per month by optimizing log data tiers and pulling off massive telemetry migrations.
+- **SRE Cost Killer:** 
+  - At Medidata, I saved an estimated $105,000+ per month by optimizing log data tiers and pulling off massive telemetry migrations.
 ---
 
 ### Tech Stack
