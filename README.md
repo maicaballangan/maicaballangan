@@ -19,11 +19,11 @@ On my free time, I play cozy farming games like Stardew Valley, Harvest Moon, an
   - Slashed pipeline build times from **1+ hours down to ~15 minutes** by restructuring workflows to utilize multi-stage, multi-job parallelization, and advanced layer caching.
   - Revamped unstable Terraform and Gradle execution steps, driving the team's pipeline **Pass Rate Trend** from 30% to 80%.
 - **High-Scale Performance Tuning:** 
-  - Slashed a flagship product's daily asset traffic from **35M to 500k requests**, dropping load times from 25 seconds to milliseconds.
-  - Resolved a regional network bottleneck causing **2-minute client latencies** down to milliseconds using strategic CDN routing.
-  - Eliminated critical N+1 query patterns in our highest-traffic Java auth service—**dropping daily calls from 500k to less than 50k**.
+  - Slashed a flagship product's daily asset traffic from **35M to 500k requests**, dropping load times from 25s to milliseconds.
+  - Resolved a regional network bottleneck causing **2-minute latencies** down to milliseconds using CDN caching.
+  - Eliminated N+1 calls in our critical auth service— **dropping daily calls from 500k to less than 50k**.
 - **SRE Cost Killer:** 
-  - At Medidata, I saved an estimated $105,000+ per month by optimizing log data tiers and pulling off massive telemetry migrations.
+  - At Medidata, I saved an estimated $105,000+ per month by optimizing log data tiers and pulling off telemetry migrations.
 ---
 
 ### Tech Stack
