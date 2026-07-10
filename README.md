@@ -14,6 +14,7 @@ On my free time, I play cozy farming games like Stardew Valley, Harvest Moon, an
 
 - **Code Modernization:** 
   - Throughout my career I've been adept at rearchitecting fossilized codebases to modern ecosystems and frameworks.
+  - The most challenging project is probably improving/finishing a codebase that was migrated from COBOL to Java using AI. 
 - **CI/CD Pipeline Optimization:** 
   - Enforced Sonarqube Quality Gate in CI pipeline throughout the whole organization (600+ repos).
   - Slashed pipeline build times from **1+ hours down to ~15 minutes** by restructuring workflows to utilize multi-stage, multi-job parallelization, and advanced layer caching.
