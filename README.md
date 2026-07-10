@@ -2,11 +2,9 @@
 
 I am a **Full Stack Engineer & SRE** based in Tokyo with a passion for clean architecture and optimizing workflows & performance.
 
-**By morning,** I am my own personal barista, pulling the perfect manual espresso shot.
-
-**By day,** I modern and re-architect fossilized, ancient artifacts written in COBOL, .NET, Django, or even J2EE to modern cloud-native frameworks like Java SpringBoot or Python FastAPI. Transforming legacy systems into high-performance, maintainable assets
-
-**By night,** I hunt down latency bottlenecks, delete digits from company cloud bills, supercharge CI pipelines for maximum developer efficiency, and play cozy farming games like Stardew Valley, Harvest Moon, and Sakuna: Of Rice and Ruin.
+- **By morning,** I am my own personal barista, pulling the perfect manual espresso shot.
+- **By day,** I modern and re-architect fossilized, ancient artifacts written in COBOL, .NET, Django, or even J2EE to modern cloud-native frameworks like Java SpringBoot or Python FastAPI. Transforming legacy systems into high-performance, maintainable assets
+- **By night,** I hunt down latency bottlenecks, delete digits from company cloud bills, supercharge CI pipelines for maximum developer efficiency, and play cozy farming games like Stardew Valley, Harvest Moon, and Sakuna: Of Rice and Ruin.
 
 ---
 
