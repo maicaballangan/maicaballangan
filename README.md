@@ -36,13 +36,13 @@ On my free time, I play cozy farming games like Stardew Valley, Harvest Moon, an
 
 ## Fun Projects & Highlights
 
-### [Tech-Insights Maturity Plugin](https://github.com/maicaballangan) 
+### [Tech-Insights Maturity Plugin](https://github.com/backstage/community-plugins/pull/2464) 
 An open-source plugin I built and published for Spotify Backstage using TypeScript and React. It’s an automated, gamified tracker that continuously checks if repositories meet organizational engineering standards.
 
-### [AI Chatbot Backend](https://github.com/maicaballangan)
+### [AI Chatbot Backend](https://github.com/maicaballangan/document-chatbot)
 Migrated a legacy Django setup over to a sleek FastAPI architecture using Tortoise ORM, complete with automated Pytest pipelines, strict linting, and Stripe subscription billing. 
 
-### [The Tabuk City Project (RBIM)](https://github.com/maicaballangan)
+### [The Tabuk City Project (RBIM)](https://github.com/maicaballangan/rbim)
 Acted as a solo independent contractor to design and deliver an end-to-end data platform for a local government unit in the Philippines. It streamlined their regional report generation so well it won formal recognition.
 
 ---
