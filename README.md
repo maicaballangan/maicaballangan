@@ -8,6 +8,10 @@ I am a **Full Stack Engineer & SRE** based in Tokyo with a passion for clean arc
 
 On my free time, I play cozy farming games like Stardew Valley, Harvest Moon, and Sakuna: Of Rice and Ruin.
 
+## Fun Fact
+
+"Fight for Software Architecture!" is something I put on my sticky notes widget whether it's work or personal PC.
+
 ---
 
 ## What I Actually Do (TL;DR)
