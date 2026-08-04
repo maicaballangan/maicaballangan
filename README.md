@@ -9,15 +9,17 @@ I am a **Full Stack Engineer & SRE** based in Tokyo with a passion for clean arc
 
 ## Fun Fact
 
-"Fight for Software Architecture!" -- is written in my sticky notes desktop widget whether it's work or personal PC.
+"Fight for Software Architecture!" -- is written in my sticky notes desktop widget whether it's work or personal PC. Coding is an art that needs to be preserved.
+
+The best compliment I received as someone passionate about software architecture is probably when my previous CTO said he had codegasms reading our codebase lol.
 
 ---
 
 ## What I Actually Do (TL;DR)
 
-- **Code Modernization:** 
-  - Throughout my career I've been adept at rearchitecting fossilized codebases to modern ecosystems and frameworks.
-  - The most challenging project is probably improving/finishing a codebase that was migrated from COBOL to Java using AI. 
+- **Programming, duh:** 
+  - Rearchitected fossilized codebases to modern ecosystems and frameworks.
+  - Built an e-commerce backend from scratch to production.
 - **CI/CD Pipeline Optimization:** 
   - Enforced Sonarqube Quality Gate in CI pipeline throughout the whole organization (600+ repos).
   - Slashed pipeline build times from **1+ hours down to ~15 minutes** by restructuring workflows to utilize multi-stage, multi-job parallelization, and advanced layer caching.
