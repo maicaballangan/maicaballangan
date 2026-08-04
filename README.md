@@ -10,7 +10,7 @@ On my free time, I play cozy farming games like Stardew Valley, Harvest Moon, an
 
 ## Fun Fact
 
-"Fight for Software Architecture!" is something I put on my sticky notes widget whether it's work or personal PC.
+"Fight for Software Architecture!" -- is written in my sticky notes desktop widget whether it's work or personal PC.
 
 ---
 
