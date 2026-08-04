@@ -5,8 +5,7 @@ I am a **Full Stack Engineer & SRE** based in Tokyo with a passion for clean arc
 - **By morning,** I am my own personal barista, pulling the perfect manual espresso shot.
 - **By day,** I modernize and re-architect legacy ancient artifacts written in COBOL/.NET/J2EE/Django to modern cloud-native frameworks like Java SpringBoot or Python FastAPI.
 - **By night,** I hunt down latency bottlenecks, delete digits from company cloud bills, and optimize CI pipelines for developer efficiency.
-
-On my free time, I play cozy farming games like Stardew Valley, Harvest Moon, and Sakuna: Of Rice and Ruin.
+- On my free time, I play cozy farming games like Stardew Valley, Harvest Moon, and Sakuna: Of Rice and Ruin.
 
 ## Fun Fact
 
