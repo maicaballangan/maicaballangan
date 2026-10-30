@@ -2,14 +2,13 @@
 
 I am a **Full Stack Engineer & SRE** based in Tokyo with a passion for clean architecture and optimizing workflows & performance.
 
-- **By morning,** I am my own personal barista, pulling the perfect espresso shot into a latte.
-- **By day,** I modernize and re-architect legacy ancient artifacts written in COBOL/.NET/J2EE/Django to modern cloud-native frameworks like Java SpringBoot or Python FastAPI.
-- **By night,** I hunt down latency bottlenecks, delete digits from company cloud bills, and optimize CI pipelines for developer efficiency.
-- On my free time, I play cozy farming games like Stardew Valley, Harvest Moon, and Sakuna: Of Rice and Ruin.
+- **In the morning**, I start my day by brewing and drinking specialty coffees. I get my energy from the taste, not the caffeine buzz.
+- **During the day**, I modernize and re-architect legacy ancient artifacts written in COBOL/.NET/J2EE/Django to modern cloud-native frameworks like Java SpringBoot or Python FastAPI. I also hunt down latency bottlenecks, optimize pipelines for developer efficiency, and make sure our services stay reliable.
+- **By night**, I enjoy my free time by playing cozy farming games like Stardew Valley, Harvest Moon, or Sakuna: Of Rice and Ruin.
 
 ## Fun Fact
 
-"Fight for Software Architecture!" -- is written in my sticky notes desktop widget whether it's work or personal PC. Coding is an art that needs to be preserved.
+"Fight for Software Architecture!" -- is written in my sticky notes desktop widget whether it's work or personal PC. Coding and maintainability is a form of art that is especially important in the age of AI overengineering.  
 
 ---
 
