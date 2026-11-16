@@ -6,31 +6,27 @@ I am a **Full Stack Engineer & SRE** based in Tokyo with a passion for clean arc
 - **During the day**, I modernize and re-architect legacy ancient artifacts written in COBOL/.NET/J2EE/Django to modern cloud-native frameworks like Java SpringBoot or Python FastAPI. I also hunt down latency bottlenecks, optimize pipelines for developer efficiency, and make sure our services stay reliable.
 - **By night**, I enjoy my free time by playing cozy farming games like Stardew Valley, Harvest Moon, or Sakuna: Of Rice and Ruin.
 
-## Fun Fact
-
-"Fight for Software Architecture!" -- is written in my sticky notes desktop widget whether it's work or personal PC. Coding and maintainability is a form of art that is especially important in the age of AI overengineering.  
-
 ---
 
 ## What I Actually Do (TL;DR)
 
-- **Programming, duh:** 
-  - Rearchitected fossilized codebases to modern ecosystems and frameworks.
-  - Built an e-commerce backend from scratch to production.
-  - Maintaining opensource contribution on my free time.
+- **Performance Tuning:** 
+  - Slashed a flagship product's daily asset traffic from **35M to 500k requests**, dropping load times from 25s to milliseconds.
+  - Resolved a regional network bottleneck causing **2-minute latencies** down to milliseconds using CDN caching. 
+  - Eliminated N+1 calls in our critical auth service— **dropping daily calls from 900k to less than 100k**.
+  - Slashed pipeline build times from **1+ hours down to ~15 minutes** by restructuring workflows to utilize multi-stage, multi-job parallelization, and advanced layer caching.
+  - Resolved flaky CI caused by Terraform test resources by improving the workflow and introducing Terraform caching, raising CI pass rate from 22% to 88%.
+- **SRE:** 
+  - At Medidata, I saved an estimated $105,000+ per month by optimizing log data tiers and leading metrics migrations to Grafana.
 - **Cross-Functional Initiatives:** 
   - Solo-built a self-hosted SonarQube as proof of concept to enforce Quality Gates in CI pipelines, and spearheaded its organizational-wide adoption across 600+ repositories.
   - Wrote GitHub composite actions to enforce Quality Gates in CI workflows across Java, Ruby, Python, and .NET, which are adopted into the reusable workflows of multiple teams.
   - Established Java End-of-Life and migration guidelines and led the cross-functional deprecation efforts of vulnerable Java 8 JDK across 50 services, mitigating critical security vulnerabilities.
-  - Developed our internal developer portal which catalogs 600+ projects and teams, and streamlines all our organizational tooling, and supplies data used for workflow automations in SRE, InfoSec, and HR.
-- **Performance Tuning:** 
-  - Slashed a flagship product's daily asset traffic from **35M to 500k requests**, dropping load times from 25s to milliseconds.
-  - Resolved a regional network bottleneck causing **2-minute latencies** down to milliseconds using CDN caching.
-  - Eliminated N+1 calls in our critical auth service— **dropping daily calls from 900k to less than 100k**.
-  - Slashed pipeline build times from **1+ hours down to ~15 minutes** by restructuring workflows to utilize multi-stage, multi-job parallelization, and advanced layer caching.
-  - Resolved flaky CI caused by Terraform test resources by improving the workflow and introducing Terraform caching, raising CI pass rate from 22% to 88%.
-- **SRE Cost Killer:** 
-  - At Medidata, I saved an estimated $105,000+ per month by optimizing log data tiers and leading metrics migrations to Grafana.
+  - Developed our internal developer portal in Backstage which catalogs 600+ projects and teams, and streamlines all our organizational tooling, and supplies data used for workflow automations in SRE, InfoSec, and HR.
+- **Programming, duh:** 
+  - Rearchitected COBOL codebases to modern ecosystems and frameworks.
+  - Built an e-commerce backend from scratch to production.
+  - Maintaining opensource contribution on my free time.
 ---
 
 ### Tech Stack
